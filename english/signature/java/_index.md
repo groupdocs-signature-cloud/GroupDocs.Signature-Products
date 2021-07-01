@@ -49,7 +49,7 @@ submenu:
               text: "Pricing"
 
     right:
-        link_download: "https://groupdocscloud.github.io/"
+        link_download: "https://github.com/groupdocs-signature-cloud/groupdocs-signature-cloud-java"
         link_learn: "https://docs.groupdocs.cloud/signature/"
         link_buy: "https://purchase.groupdocs.cloud/buy"
 
@@ -64,7 +64,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          An overview of the features supported by GroupDocs.Signature Cloud SDK for Java.
+          An overview of the features supported by GroupDocs.Signature Cloud.
       
         left:
           enable: true
@@ -161,11 +161,11 @@ features:
         content: "Provide the list of supported document formats"
 
       # feature loop
-      - icon: "fas fa-file-o"
+      - icon: "fas fa-file"
         content: "Retrieve document pages information"
 
       # feature loop
-      - icon: "fas fa-file-text-o"
+      - icon: "fas fa-file-alt"
         content: "Retrieve document properties"
       
       # feature loop
@@ -184,7 +184,7 @@ features:
         content: "Search multiple signatures"
       
       # feature loop
-      - icon: "fas fa-sign-in"
+      - icon: "fas fa-sign-in-alt"
         content: "Add multiple signatures"
     
     more_feature:
@@ -233,49 +233,49 @@ solutions:
         - img_alt: "GroupDocs.Signature Cloud for cURL"
           image: "/sdk/272x272/groupdocs_signature-for-curl.webp"
           product: "GroupDocs.Signature"
-          platform: "Cloud for cURL"
-          link: "/signature/curl"
+          platform: "cURL"
+          link: "/signature/curl/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for .NET"
           image: "/sdk/272x272/groupdocs_signature-for-net.webp"
           product: "GroupDocs.Signature"
           platform: ".NET"
-          link: "/signature/net"
+          link: "/signature/net/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for PHP"
           image: "/sdk/272x272/groupdocs_signature-for-php.webp"
           product: "GroupDocs.Signature"
           platform: "PHP"
-          link: "/signature/php"
+          link: "/signature/php/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Python"
           image: "/sdk/272x272/groupdocs_signature-for-python.webp"
           product: "GroupDocs.Signature"
           platform: "Python"
-          link: "/signature/python"
+          link: "/signature/python/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Ruby"
           image: "/sdk/272x272/groupdocs_signature-for-ruby.webp"
           product: "GroupDocs.Signature"
           platform: "Ruby"
-          link: "/signature/ruby"
+          link: "/signature/ruby/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_signature-for-node.webp"
           product: "GroupDocs.Signature"
           platform: "Node.js"
-          link: "/signature/nodejs"
+          link: "/signature/nodejs/"
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Android"
           image: "/sdk/272x272/groupdocs_signature-for-android.webp"
           product: "GroupDocs.Signature"
           platform: "Android"
-          link: "/signature/android"
+          link: "/signature/android/"
         
 
 ############################# Back to top ###############################

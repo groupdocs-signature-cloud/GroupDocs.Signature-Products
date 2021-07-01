@@ -64,7 +64,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          An overview of the features supported by GroupDocs.Signature Cloud SDK for Ruby.
+          An overview of the features supported by GroupDocs.Signature Cloud.
       
         left:
           enable: true
@@ -189,11 +189,11 @@ features:
         content: "Fetch List of Supported Encode Type Names for Barcode and QR-Code"
 
       # feature loop
-      - icon: "fas fa-file-text-o"
+      - icon: "fas fa-file-alt"
         content: "Retrieve Document Information from File or Provided URL"
       
       # feature loop
-      - icon: "fas fa-pencil"
+      - icon: "fas fa-pencil-ruler"
         content: "Apply Signature to a Document using File Name or at Specified URL"
 
       # feature loop
@@ -216,7 +216,7 @@ features:
       - icon: "fas fa-plus"
         content: "Add & Verify Multiple Signatures to Document using File Name or Provided URL"
       # feature loop
-      - icon: "fas fa-file-text"
+      - icon: "fas fa-file-alt"
         content: "Search Multiple Signatures in a Document using its File Name or Provided URL"
       # feature loop
       - icon: "fas fa-check"
@@ -225,7 +225,7 @@ features:
     more_feature:
       # more_feature_loop
       - title: "Get Document Information"
-        content: "GroupDocs.Signature Cloud SDK for Python makes it very easy to work with eSignatures. In addition to applying digital signatures you can also manipulate document properties. Following example elaborates how to retrieve document information of a DOCX file using Python:"
+        content: "GroupDocs.Signature Cloud SDK for Ruby makes it very easy to work with eSignatures. In addition to applying digital signatures you can also manipulate document properties. Following example elaborates how to retrieve document information of a DOCX file using Ruby:"
       # more_feature_loop
       - title: "Get Document Information using Ruby"
         content: |          
@@ -262,49 +262,49 @@ solutions:
         - img_alt: "GroupDocs.Signature Cloud for cURL"
           image: "/sdk/272x272/groupdocs_signature-for-curl.webp"
           product: "GroupDocs.Signature"
-          platform: "Cloud for cURL"
-          link: "/signature/curl"
+          platform: "cURL"
+          link: "/signature/curl/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for .NET"
           image: "/sdk/272x272/groupdocs_signature-for-net.webp"
           product: "GroupDocs.Signature"
           platform: ".NET"
-          link: "/signature/net"
+          link: "/signature/net/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Java"
           image: "/sdk/272x272/groupdocs_signature-for-java.webp"
           product: "GroupDocs.Signature"
           platform: "Java"
-          link: "/signature/java"
+          link: "/signature/java/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for PHP"
           image: "/sdk/272x272/groupdocs_signature-for-php.webp"
           product: "GroupDocs.Signature"
           platform: "PHP"
-          link: "/signature/php"
+          link: "/signature/php/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Python"
           image: "/sdk/272x272/groupdocs_signature-for-python.webp"
           product: "GroupDocs.Signature"
           platform: "Python"
-          link: "/signature/python"
+          link: "/signature/python/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_signature-for-node.webp"
           product: "GroupDocs.Signature"
           platform: "Node.js"
-          link: "/signature/nodejs"
+          link: "/signature/nodejs/"
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Android"
           image: "/sdk/272x272/groupdocs_signature-for-android.webp"
           product: "GroupDocs.Signature"
           platform: "Android"
-          link: "/signature/android"
+          link: "/signature/android/"
         
 
 ############################# Back to top ###############################

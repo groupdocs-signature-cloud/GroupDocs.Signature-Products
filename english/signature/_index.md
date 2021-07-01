@@ -27,7 +27,7 @@ apis:
           img_alt: "GroupDocs.Signature Cloud for cURL"
           image: "/sdk/272x272/groupdocs_signature-for-curl.webp"
           product: "GroupDocs.Signature"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Work with cURL RESTful document signature API to add & manipulate different signature types in all popular document formats including PDF, Word, Excel & images."
 
         # api_product loop

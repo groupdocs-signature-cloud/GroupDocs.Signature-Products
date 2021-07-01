@@ -26,7 +26,7 @@ apis:
           img_alt: "GroupDocs.Signature Cloud for cURL"
           image: "/sdk/272x272/groupdocs_signature-for-curl.webp"
           product: "GroupDocs.Signature"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Use cURL to call our cloud based e-Signature REST API. Run it everywhere, on any language or platform."
 
         # api_product loop
@@ -76,7 +76,7 @@ apis:
     # api loop
     - api_product:
         # api_product loop
-        - link: "/signature/node.js"
+        - link: "/signature/nodejs/"
           img_alt: "GroupDocs.Signature Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_signature-for-node.webp"
           product: "GroupDocs.Signature"

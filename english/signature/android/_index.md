@@ -203,21 +203,27 @@ features:
       # feature loop
       - icon: "fas fa-retweet"
         content: "Verify Text and Digital Signatures for PDF, Word and Excel Documents using File or via URL"
+
       # feature loop
       - icon: "fas fa-unlock-alt"
         content: "Verify Barcode and QR-Code Signatures for all Supported Document Formats‎ using File or via URL"
+
       # feature loop
       - icon: "fas fa-search"
         content: "Search Digital Signatures in PDF Files, Spreadsheets and Word Documents‎ in File or via URL"
+
       # feature loop
       - icon: "fas fa-binoculars"
         content: "Search Barcode and QR-Code Signatures in all Supported Document Formats‎ in File or via URL"
+
       # feature loop
       - icon: "fas fa-plus"
         content: "Add & Verify Multiple Signatures to Document using File Name or Provided URL"
+
       # feature loop
       - icon: "fas fa-file-text"
         content: "Search Multiple Signatures in a Document using its File Name or Provided URL"
+        
       # feature loop
       - icon: "fas fa-check"
         content: "Try it with Interactive API Explorer"
@@ -267,49 +273,49 @@ solutions:
         - img_alt: "GroupDocs.Signature Cloud for cURL"
           image: "/sdk/272x272/groupdocs_signature-for-curl.webp"
           product: "GroupDocs.Signature"
-          platform: "Cloud for cURL"
-          link: "/signature/curl"
+          platform: "cURL"
+          link: "/signature/curl/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for .NET"
           image: "/sdk/272x272/groupdocs_signature-for-net.webp"
           product: "GroupDocs.Signature"
           platform: ".NET"
-          link: "/signature/net"
+          link: "/signature/net/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Java"
           image: "/sdk/272x272/groupdocs_signature-for-java.webp"
           product: "GroupDocs.Signature"
           platform: "Java"
-          link: "/signature/java"
+          link: "/signature/java/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for PHP"
           image: "/sdk/272x272/groupdocs_signature-for-php.webp"
           product: "GroupDocs.Signature"
           platform: "PHP"
-          link: "/signature/php"
+          link: "/signature/php/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Python"
           image: "/sdk/272x272/groupdocs_signature-for-python.webp"
           product: "GroupDocs.Signature"
           platform: "Python"
-          link: "/signature/python"
+          link: "/signature/python/"
 
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Ruby"
           image: "/sdk/272x272/groupdocs_signature-for-ruby.webp"
           product: "GroupDocs.Signature"
           platform: "ruby"
-          link: "/signature/ruby"
+          link: "/signature/ruby/"
         # solution loop
         - img_alt: "GroupDocs.Signature Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_signature-for-node.webp"
           product: "GroupDocs.Signature"
           platform: "Node.js"
-          link: "/signature/nodejs"
+          link: "/signature/nodejs/"
         
 
 ############################# Back to top ###############################
