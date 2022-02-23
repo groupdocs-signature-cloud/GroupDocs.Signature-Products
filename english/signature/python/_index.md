@@ -57,7 +57,7 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Signature Cloud SDK for Python is a collection of REST APIs, which helps you use Python ‎language to create, verify and search different types of signatures in documents available on the ‎cloud. You can work with various types of signatures such as, text-based signatures, image signatures, ‎barcode signatures, QR-Code signatures, digital signatures, and stamp signatures. Using ‎GroupDocs.Signature Cloud SDK for Python, you can apply signatures to portable or simple ‎documents, spreadsheets, presentations, and images for supported file formats. This highly secure ‎downloadable signature SDK for Python is very customizable to use.‎ 
+      GroupDocs.Signature Cloud SDK for Python is a collection of REST APIs, which helps you use Python language to create, verify and search different types of signatures in documents available on the cloud. You can work with various types of signatures such as, text-based signatures, image signatures, barcode signatures, QR-Code signatures, digital signatures, and stamp signatures. Using GroupDocs.Signature Cloud SDK for Python, you can apply signatures to portable or simple documents, spreadsheets, presentations, and images for supported file formats. This highly secure downloadable signature SDK for Python is very customizable to use. 
     tabs:
       enable: true
       
@@ -98,7 +98,7 @@ overview:
             # table loop
             - title: "Text, Stamp & Image Signatures"
               content: |
-                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF‎
+                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF
                 * **Excel**: XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
                 * **PowerPoint**: POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, PPTX
                 * **OpenDocument**: ODT, ODP, ODS, OTT
@@ -119,7 +119,7 @@ overview:
             # table loop
             - title: "Barcode Signature"
               content: |
-                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF‎
+                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF
                 * **Excel**: XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
                 * **PowerPoint**: POT, POTM, PPSX, PPTX
                 * **OpenDocument**: ODT, ODP, ODS, OTT
@@ -128,7 +128,7 @@ overview:
             # table loop
             - title: "QR-Code Signature"
               content: |
-                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF‎
+                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF
                 * **Excel**: XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
                 * **PowerPoint**: PPTM, PPTX
                 * **OpenDocument**: OTT
@@ -205,13 +205,13 @@ features:
         content: "Verify Text and Digital Signatures for PDF, Word and Excel Documents using File or via URL"
       # feature loop
       - icon: "fas fa-unlock-alt"
-        content: "Verify Barcode and QR-Code Signatures for all Supported Document Formats‎ using File or via URL"
+        content: "Verify Barcode and QR-Code Signatures for all Supported Document Formats using File or via URL"
       # feature loop
       - icon: "fas fa-search"
-        content: "Search Digital Signatures in PDF Files, Spreadsheets and Word Documents‎ in File or via URL"
+        content: "Search Digital Signatures in PDF Files, Spreadsheets and Word Documents in File or via URL"
       # feature loop
       - icon: "fas fa-binoculars"
-        content: "Search Barcode and QR-Code Signatures in all Supported Document Formats‎ in File or via URL"
+        content: "Search Barcode and QR-Code Signatures in all Supported Document Formats in File or via URL"
       # feature loop
       - icon: "fas fa-plus"
         content: "Add & Verify Multiple Signatures to Document using File Name or Provided URL"
@@ -257,10 +257,10 @@ features:
           ```
     # more_feature_loop
       - title: "Apply Background Brush for Text & Stamp Signatures"
-        content: "GroupDocs.Signature Cloud SDK for Python, allows you to apply background brush effects to your text ‎as well as stamp signatures. At the moment, you are able to apply 4 different kinds of brushes, which ‎include, Linear Gradient Brush, Radial Gradient Brush, Solid Brush, and Texture Brush.‎"
+        content: "GroupDocs.Signature Cloud SDK for Python, allows you to apply background brush effects to your text as well as stamp signatures. At the moment, you are able to apply 4 different kinds of brushes, which include, Linear Gradient Brush, Radial Gradient Brush, Solid Brush, and Texture Brush."
       # more_feature_loop
       - title: "Get eSignature SDK for Python Up and Running"
-        content: "Whether you want an easy and efficient integration or a complete customization, ‎GroupDocs.Signature Cloud SDK for Python provides you with various options to quickly get your ‎Python eSignature applications up and running. No need to worry about “low level” details regarding ‎HTTP requests and response, instead our digital signature RESTful API makes you able to relax and ‎focused on building and deploying top-quality Python applications quickly to the market.‎"
+        content: "Whether you want an easy and efficient integration or a complete customization, GroupDocs.Signature Cloud SDK for Python provides you with various options to quickly get your Python eSignature applications up and running. No need to worry about “low level” details regarding HTTP requests and response, instead our digital signature RESTful API makes you able to relax and focused on building and deploying top-quality Python applications quickly to the market."
 ############################# Support ############################
 support:
     enable: true

@@ -57,7 +57,7 @@ submenu:
 overview:
     enable: true
     content: |
-      GroupDocs.Signature Cloud SDK for Ruby is a REST oriented API for easy integration into existing Ruby ‎based eSign and digital signature programs. This signature SDK helps you speed up the development ‎by taking care of low-level details, such as request and response handling. Moreover, it provides you ‎with a handy collection of features to apply various types of signatures, such as, image signatures, ‎barcode signatures, QR-Code signatures, text-based signatures, digital and stamp signatures. This ‎customizable Ruby based signature SDK allows you to work with signatures in spreadsheets, ‎presentations, images, portable and simple files of supported formats.‎‎
+      GroupDocs.Signature Cloud SDK for Ruby is a REST oriented API for easy integration into existing Ruby based eSign and digital signature programs. This signature SDK helps you speed up the development by taking care of low-level details, such as request and response handling. Moreover, it provides you with a handy collection of features to apply various types of signatures, such as, image signatures, barcode signatures, QR-Code signatures, text-based signatures, digital and stamp signatures. This customizable Ruby based signature SDK allows you to work with signatures in spreadsheets, presentations, images, portable and simple files of supported formats.
     tabs:
       enable: true
       
@@ -98,7 +98,7 @@ overview:
             # table loop
             - title: "Text, Stamp & Image Signatures"
               content: |
-                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF‎
+                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF
                 * **Excel**: XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
                 * **PowerPoint**: POT, POTM, POTX, PPS, PPSM, PPSX, PPT, PPTM, PPTX
                 * **OpenDocument**: ODT, ODP, ODS, OTT
@@ -119,7 +119,7 @@ overview:
             # table loop
             - title: "Barcode Signature"
               content: |
-                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF‎
+                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF
                 * **Excel**: XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
                 * **PowerPoint**: POT, POTM, PPSX, PPTX
                 * **OpenDocument**: ODT, ODP, ODS, OTT
@@ -128,7 +128,7 @@ overview:
             # table loop
             - title: "QR-Code Signature"
               content: |
-                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF‎
+                * **Word**: DOC, DOCM, DOCX, DOT, DOTM, DOTX, RTF
                 * **Excel**: XLS, XLSB, XLSM, XLSX, XLT, XLTM, XLTX
                 * **PowerPoint**: PPTM, PPTX
                 * **OpenDocument**: OTT
@@ -205,13 +205,13 @@ features:
         content: "Verify Text and Digital Signatures for PDF, Word and Excel Documents using File or via URL"
       # feature loop
       - icon: "fas fa-unlock-alt"
-        content: "Verify Barcode and QR-Code Signatures for all Supported Document Formats‎ using File or via URL"
+        content: "Verify Barcode and QR-Code Signatures for all Supported Document Formats using File or via URL"
       # feature loop
       - icon: "fas fa-search"
-        content: "Search Digital Signatures in PDF Files, Spreadsheets and Word Documents‎ in File or via URL"
+        content: "Search Digital Signatures in PDF Files, Spreadsheets and Word Documents in File or via URL"
       # feature loop
       - icon: "fas fa-binoculars"
-        content: "Search Barcode and QR-Code Signatures in all Supported Document Formats‎ in File or via URL"
+        content: "Search Barcode and QR-Code Signatures in all Supported Document Formats in File or via URL"
       # feature loop
       - icon: "fas fa-plus"
         content: "Add & Verify Multiple Signatures to Document using File Name or Provided URL"
@@ -247,7 +247,7 @@ features:
           ```
       # more_feature_loop
       - title: "Set Background Brush for Stamp & Text Signatures"
-        content: "Using GroupDocs.Signature Cloud SDK for Ruby, you can set background brush effects for your text ‎as well as stamp signatures. Currently, the SDK supports to apply 4 different types of brushes, which ‎include, Radial Gradient Brush, Linear Gradient Brush, Textured Brush, and Solid Brush.‎"
+        content: "Using GroupDocs.Signature Cloud SDK for Ruby, you can set background brush effects for your text as well as stamp signatures. Currently, the SDK supports to apply 4 different types of brushes, which include, Radial Gradient Brush, Linear Gradient Brush, Textured Brush, and Solid Brush."
 ############################# Support ############################
 support:
     enable: true
